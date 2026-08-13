@@ -61,8 +61,8 @@ The main objective of this project is to analyze Blinkit's sales data and create
 ```text
 Blinkit-Sales-Dashboard/
 │
-├── Blinkit_Sales_Dashboard.pbix
-├── Blinkit_Sales_Data.xlsx
+├── Blinkit_Dashboard.pbix
+├── Module 2 -JS Mart Data.xlsx
 ├── README.md
 └── Dashboard_Screenshot.png
 ```
